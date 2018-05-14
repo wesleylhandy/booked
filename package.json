@@ -1,0 +1,27 @@
+{
+  "name": "booked",
+  "version": "0.0.1",
+  "description": "A Full-Stack JavaScript Application that manages a book-trading club for all active users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleylhandy/booked.git"
+  },
+  "keywords": [
+    "books",
+    "trading",
+    "free",
+    "react",
+    "node",
+    "mongodb"
+  ],
+  "author": "Wesley L. Handy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleylhandy/booked/issues"
+  },
+  "homepage": "https://github.com/wesleylhandy/booked#readme"
+}
